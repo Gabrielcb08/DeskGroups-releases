@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.3",
-    "published":  "2026-08-06T09:53:02Z",
-    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.1.3/DeskGroups-1.1.3-win64.zip",
-    "sha256":  "71fd36e9cfd59e79ccd86f92a0488460501ef11b00fe53ee3679c40186b4b88e",
-    "size":  2170747,
-    "notes":  "CorreÃ§Ã£o nas notas de versÃ£o.\n\nAs versÃµes 1.1.0 a 1.1.2 foram publicadas com o texto desta janela ilegÃ­vel ou\ntrocado pela mensagem interna de um commit. Esta versÃ£o corrige a publicaÃ§Ã£o:\nas notas voltam a descrever o que mudou, com acentuaÃ§Ã£o correta.\n\nO programa em si nÃ£o mudou desde a 1.1.0 â€” continua com a tela \"Sobre\", o termo\nde licenÃ§a embutido no executÃ¡vel e a atualizaÃ§Ã£o automÃ¡tica.\n"
+    "version":  "1.1.4",
+    "published":  "2026-08-06T10:00:07Z",
+    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.1.4/DeskGroups-1.1.4-win64.zip",
+    "sha256":  "e23ef5eda45d08f95dc9d26c1aa216fea52769c288e82e85e5cf296b97691171",
+    "size":  2170745,
+    "notes":  "Correção nas notas de versão.\n\nAs versões anteriores foram publicadas com o texto desta janela ilegível ou\ntrocado pela mensagem interna de um commit. Esta versão corrige a publicação:\nas notas voltam a descrever o que mudou, com acentuação correta.\n\nO programa em si não mudou desde a 1.1.0 — continua com a tela \"Sobre\", o termo\nde licença embutido no executável e a atualização automática.\n"
 }

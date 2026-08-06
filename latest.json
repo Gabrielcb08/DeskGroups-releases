@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.1",
-    "published":  "2026-08-06T00:14:00Z",
-    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.1.1/DeskGroups-1.1.1-win64.zip",
-    "sha256":  "61ecee5539d496df4c238770e0b395f81e3220bed14b29e68ac48001b04fde11",
-    "size":  2170741,
-    "notes":  "VersÃƒÂ£o 1.1.1 do DeskGroups."
+    "version":  "1.1.2",
+    "published":  "2026-08-06T00:36:02Z",
+    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.1.2/DeskGroups-1.1.2-win64.zip",
+    "sha256":  "ac9a19841a600919492d68e339a7168d06ed77e8db695ef5895002a3e9cca90e",
+    "size":  2170746,
+    "notes":  "VersÃƒÂ£o 1.1.2 do DeskGroups."
 }

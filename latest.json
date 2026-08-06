@@ -1,0 +1,8 @@
+{
+    "version":  "1.1.0",
+    "published":  "2026-08-06T00:01:41Z",
+    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.1.0/DeskGroups-1.1.0-win64.zip",
+    "sha256":  "c4967a6e2247e81c812bb88e6b6fadefbf79bcdf5d6a57ce2837948939757e61",
+    "size":  2170745,
+    "notes":  "release: usa powershell 5.1 (pwsh nao existe aqui) e corrige encoding das notas\n"
+}

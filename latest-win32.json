@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.5",
-    "published":  "2026-08-07T10:02:04Z",
-    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.1.5/DeskGroups-1.1.5-win32.zip",
-    "sha256":  "ea9654b048b72bacb2070694b52c2851c6fdd8e033ba2977ae8de530602882d7",
-    "size":  1048182,
-    "notes":  "DeskGroups 1.1.5 - agora em 32 e 64 bits.\n\nEsta versão passa a ser publicada em duas edições: Windows 64 bits (como antes)\ne Windows 32 bits, para computadores mais antigos. O instalador e o pacote .zip\nde cada edição ficam disponíveis lado a lado, e a atualização automática escolhe\nsozinha a edição correta para o seu computador.\n\nNada muda no uso do programa: quem já tem a versão 64 bits instalada continua\nrecebendo atualizações 64 bits normalmente.\n"
+    "version":  "1.1.6",
+    "published":  "2026-08-07T10:22:00Z",
+    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.1.6/DeskGroups-1.1.6-win32.zip",
+    "sha256":  "129c6afdd6c21bbc0e78da47f444bc722abd486cc52d081f6a1c06275d492403",
+    "size":  1048109,
+    "notes":  "DeskGroups 1.1.6 - correção no texto da licença do instalador.\n\nO termo de licença exibido durante a instalação aparecia com os caracteres\nacentuados trocados por símbolos ilegíveis. O texto agora é exibido corretamente,\nem português, nas duas edições (32 e 64 bits).\n\nNada muda no programa em si: quem já instalou a versão anterior não precisa\nreinstalar por causa disto.\n"
 }

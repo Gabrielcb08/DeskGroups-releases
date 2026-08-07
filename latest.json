@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.6",
-    "published":  "2026-08-07T10:22:19Z",
-    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.1.6/DeskGroups-1.1.6-win64.zip",
-    "sha256":  "7d316d7656440cf556d38acb2df4e3f8d1ae5a6f5ce3f4e60cd30c847521908d",
-    "size":  1474068,
-    "notes":  "DeskGroups 1.1.6 - correção no texto da licença do instalador.\n\nO termo de licença exibido durante a instalação aparecia com os caracteres\nacentuados trocados por símbolos ilegíveis. O texto agora é exibido corretamente,\nem português, nas duas edições (32 e 64 bits).\n\nNada muda no programa em si: quem já instalou a versão anterior não precisa\nreinstalar por causa disto.\n"
+    "version":  "1.0.0",
+    "published":  "2026-08-07T11:38:41Z",
+    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.0.0/DeskGroups-1.0.0-win64.zip",
+    "sha256":  "8e24aa71dca3364760aade95794cfe8cade5c37ebb5cce9bc669b14e5fc7e507",
+    "size":  1475957,
+    "notes":  "DeskGroups 1.0.0 - primeira versão pública.\n\nO DeskGroups organiza a área de trabalho do Windows em grupos: janelas\ntranslúcidas ancoradas ao fundo, onde você reúne atalhos, pastas e arquivos\narrastando-os do Explorador. Cada grupo tem nome, cor, opacidade e tamanho de\nícone próprios, pode ser recolhido e mantém posição e conteúdo entre reinícios.\n\nOrganização automática: um comando varre a área de trabalho, classifica cada\nitem por um motor de regras e propõe os grupos já montados. Você confere e\ndesmarca o que não quiser antes de aplicar, e pode desfazer depois. Itens novos\nque aparecerem na área de trabalho podem ser encaixados sozinhos no grupo certo.\n\nClassificação por IA opcional, desligada por padrão, para os itens que as regras\nnão reconhecem. Nenhum caminho de arquivo sai da máquina e a chave de acesso\nfica protegida pelo Windows.\n\nDisponível em edições de 32 e 64 bits. A edição de 32 bits instala em qualquer\nWindows; a de 64 bits exige Windows de 64 bits. Não há dependências a instalar.\n\nGratuito para uso pessoal, doméstico, acadêmico e por entidades sem fins\nlucrativos. Uso comercial requer licença do autor.\n"
 }

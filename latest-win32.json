@@ -1,8 +1,8 @@
 {
     "version":  "1.1.5",
-    "published":  "2026-08-07T10:02:36Z",
-    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.1.5/DeskGroups-1.1.5-win64.zip",
-    "sha256":  "3af7e412b85e41346ac86f1454eab3116aa299d68699982220746f7efb644f64",
-    "size":  1474022,
+    "published":  "2026-08-07T10:02:04Z",
+    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.1.5/DeskGroups-1.1.5-win32.zip",
+    "sha256":  "ea9654b048b72bacb2070694b52c2851c6fdd8e033ba2977ae8de530602882d7",
+    "size":  1048182,
     "notes":  "DeskGroups 1.1.5 - agora em 32 e 64 bits.\n\nEsta versão passa a ser publicada em duas edições: Windows 64 bits (como antes)\ne Windows 32 bits, para computadores mais antigos. O instalador e o pacote .zip\nde cada edição ficam disponíveis lado a lado, e a atualização automática escolhe\nsozinha a edição correta para o seu computador.\n\nNada muda no uso do programa: quem já tem a versão 64 bits instalada continua\nrecebendo atualizações 64 bits normalmente.\n"
 }

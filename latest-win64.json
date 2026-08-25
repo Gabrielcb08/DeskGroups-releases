@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.3",
-    "published":  "2026-08-25T17:07:26Z",
-    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.0.3/DeskGroups-1.0.3-win64.zip",
-    "sha256":  "3cd3e572d634dc3ec46de25e20ec0f9a09ee8e6054d06f04cb18d2225f1b28d4",
-    "size":  1355086,
-    "notes":  "DeskGroups 1.0.3 - conserta a transparência que sumiu na 1.0.2.\n\nNa 1.0.2 o fundo dos grupos podia aparecer como cor chapada, sem deixar o\npapel de parede passar: a leitura do papel de parede é feita na abertura do\nprograma e, quando voltava vazia, ficava assim pelo resto da sessão.\n\nAgora essa leitura é conferida, refeita quando falha, e os grupos já\ndesenhados se atualizam sozinhos assim que ela dá certo. Os ícones e os nomes\nseguem opacos, como na 1.0.2.\n"
+    "version":  "1.0.4",
+    "published":  "2026-08-25T23:11:54Z",
+    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.0.4/DeskGroups-1.0.4-win64.zip",
+    "sha256":  "ada0c832c85d83231d0e6732a3b2f63caea04c68098d930316676634e3789692",
+    "size":  1353957,
+    "notes":  "DeskGroups 1.0.4 - transparência de verdade.\n\nO fundo dos grupos passa a ser transparente de fato: quem compõe o grupo com o\nque está atrás dele é o próprio Windows, em vez de o DeskGroups copiar o papel\nde parede para dentro do grupo.\n\nCom isso some o efeito serrilhado ao arrastar um grupo, e o fundo acompanha\nqualquer troca de papel de parede na hora - inclusive as automáticas do\nDestaque do Windows.\n\nÍcones e nomes continuam nítidos, sem desbotar junto com a opacidade.\n"
 }

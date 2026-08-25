@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.1",
-    "published":  "2026-08-12T20:23:50Z",
-    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.0.1/DeskGroups-1.0.1-win32.zip",
-    "sha256":  "9e2869b6da9a29e82cb09f6048db331da87469ca0e10f2a1b16f7d0fbe9975e6",
-    "size":  1066575,
-    "notes":  "DeskGroups 1.0.1 - republicação da primeira versão pública.\n\nMesmo código da v1.0.0: esta versão apenas renumera o release, sem mudança de\nfuncionalidade.\n\nO DeskGroups organiza a área de trabalho do Windows em grupos: janelas\ntranslúcidas ancoradas ao fundo, onde você reúne atalhos, pastas e arquivos\narrastando-os do Explorador. Cada grupo tem nome, cor, opacidade e tamanho de\nícone próprios, pode ser recolhido e mantém posição e conteúdo entre reinícios.\n\nOrganização automática: um comando varre a área de trabalho, classifica cada\nitem por um motor de regras e propõe os grupos já montados. Você confere e\ndesmarca o que não quiser antes de aplicar, e pode desfazer depois. Itens novos\nque aparecerem na área de trabalho podem ser encaixados sozinhos no grupo certo.\n\nClassificação por IA opcional, desligada por padrão, para os itens que as regras\nnão reconhecem. Nenhum caminho de arquivo sai da máquina e a chave de acesso\nfica protegida pelo Windows.\n\nDisponível em edições de 32 e 64 bits. A edição de 32 bits instala em qualquer\nWindows; a de 64 bits exige Windows de 64 bits. Não há dependências a instalar.\n\nGratuito para uso pessoal, doméstico, acadêmico e por entidades sem fins\nlucrativos. Uso comercial requer licença do autor.\n"
+    "version":  "1.0.2",
+    "published":  "2026-08-25T16:37:09Z",
+    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.0.2/DeskGroups-1.0.2-win32.zip",
+    "sha256":  "16f430e73352bfca7c257a488e0eebb006ceadf4b2539a0a8cace352711d0ce4",
+    "size":  1067522,
+    "notes":  "DeskGroups 1.0.2 - opacidade só no fundo, ícones sempre nítidos.\n\nA opacidade do grupo agora vale só para o fundo. Os ícones e os nomes ficam\nnítidos por cima dele em qualquer nível de opacidade - antes o alfa era\naplicado à janela inteira e desbotava o conteúdo junto com a chapa de cor.\n\nDois defeitos de sobreposição corrigidos junto: os grupos não deixam mais\nrastro sobre caixas de diálogo e menus de outros programas, e um grupo que\nperca o vínculo com a área de trabalho - depois de reiniciar o Explorador ou\ntrocar o papel de parede - não sobe mais para a frente das outras janelas.\n\nAtualize pelo próprio DeskGroups ou baixe o instalador abaixo. Há edições de\n32 e 64 bits; em Windows de 64 bits, prefira a de 64.\n"
 }

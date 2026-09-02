@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.4",
-    "published":  "2026-08-25T23:11:54Z",
-    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.0.4/DeskGroups-1.0.4-win64.zip",
-    "sha256":  "ada0c832c85d83231d0e6732a3b2f63caea04c68098d930316676634e3789692",
-    "size":  1353957,
-    "notes":  "DeskGroups 1.0.4 - transparência de verdade.\n\nO fundo dos grupos passa a ser transparente de fato: quem compõe o grupo com o\nque está atrás dele é o próprio Windows, em vez de o DeskGroups copiar o papel\nde parede para dentro do grupo.\n\nCom isso some o efeito serrilhado ao arrastar um grupo, e o fundo acompanha\nqualquer troca de papel de parede na hora - inclusive as automáticas do\nDestaque do Windows.\n\nÍcones e nomes continuam nítidos, sem desbotar junto com a opacidade.\n"
+    "version":  "1.0.5",
+    "published":  "2026-09-02T11:50:24Z",
+    "url":  "https://github.com/Gabrielcb08/DeskGroups-releases/releases/download/v1.0.5/DeskGroups-1.0.5-win64.zip",
+    "sha256":  "a255b9be99516a18ef881fd213b6353c40c60912bffafce5a697f61b7a694388",
+    "size":  1357235,
+    "notes":  "DeskGroups 1.0.5\n\n- O menu de contexto da área de trabalho volta a abrir quando os ícones\n  nativos estão ocultos: a ocultação passa a usar o comando nativo do\n  shell, que esconde só os ícones e mantém a área de trabalho clicável.\n- Os grupos acompanham o monitor quando a configuração de telas muda\n  (troca do monitor principal, resolução, tela conectada ou removida).\n"
 }
